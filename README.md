@@ -1,1 +1,1 @@
-# udp-chat-app
+# UDP-chat
